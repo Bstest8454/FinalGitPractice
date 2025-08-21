@@ -1,1 +1,0 @@
-console.log("its mmy first file!!!");

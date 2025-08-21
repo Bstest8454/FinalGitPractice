@@ -1,1 +1,1 @@
-console.log("implemnt feature 2")
+console.log("implemnt feature 2 also fix by jash")

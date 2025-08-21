@@ -1,1 +1,1 @@
-console.log("implemnt feature 2 update it by t")
+console.log("implemnt feature 2 fix it by t")
